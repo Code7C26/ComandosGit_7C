@@ -41,7 +41,6 @@ code .               # Abrir carpeta en VSCode
 ## Configuración inicial de Git
 
 ```bash
-git init                                  # Inicializar repositorio
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@email.com"
 ```
